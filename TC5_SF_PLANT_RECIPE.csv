@@ -1,0 +1,142 @@
+﻿Identifier,PLANT,GEN_RCP,MATERIAL,ALTERNATE,SF_FP,OLD_MAT_DESC,Stage no.,Source of input stream,Item type,Stage no. desc.,MAT_Assignment,CALC_MODE,BOM_ITEM,COMPONENT,MAT_TYPE,COMPONENT_DESC,COMP_Q,UOM1
+5081,3611,No,,2,SF,IFR Base 121 FFI,10,,Primary output,Fluidbed,,Evap./Abs. with Total Solids,1,5081,ZHAL,IFR Base 121 FFI,2700,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,10,20,Input stream,Fluidbed,,,10,,,,,
+5081,3611,No,,2,SF,IFR Base 121 FFI,10,,Input,Fluidbed,666940,,20,326391,ZROH,Lactose bag 25 kg,275,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,20,30,Input stream,Fat Injection,,,1,,,,,
+5081,3611,No,,2,SF,IFR Base 121 FFI,20,,Input,Fat Injection,272469,,10,272469,ZROH,Fat blend FN00 (bulk),822,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,20,,Output stream,Fat Injection,,,20,,,,,
+5081,3611,No,,2,SF,IFR Base 121 FFI,30,,Input,Mix,,,1,23620,ZROH,Process water SPB,1988,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,30,,Input,Mix,651454,,10,081474-ALL,ZROH,Demineralized whey powder 90 (Kerry and DOMO),1075,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,30,,Input,Mix,651450,,20,400783-NON-DUTCH,ZROH,"SMP for wet processing (all non Dutch suppliers, protein 37.5 %)",475,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,30,,Input,Mix,794248,,30,10238,ZROH,Tri Potassium Citrate monohydrate,15.5,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,30,,Input,Mix,794316,,40,44752,ZROH,Calcium carbonate,11.6,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,30,,Input,Mix,794246,,50,10344,ZROH,Magnesium chloride hexahydrate,6.4,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,30,,Input,Mix,794252,,60,10443,ZROH,Potassium chloride,3.85,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,30,,Input,Mix,794227,,70,98373,ZROH,Tri Calcium phosphate [Ca5OH(PO4)3] (food grade),5,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,30,,Input,Mix,794279,,80,436878,ZROH,Sodium chloride (with 1% calcium carbonate),2.5,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,30,,Input,Mix,794247,,90,10368,ZROH,Calcium hydroxide,0.85,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,30,40,Input stream,Mix,,,100,,,,,
+5081,3611,No,,2,SF,IFR Base 121 FFI,30,,Output stream,Mix,,,110,,,,,
+5081,3611,No,,2,SF,IFR Base 121 FFI,40,,Input,Cluster,794314,,1,402681,ZROH,Premix IFR base 402,12.25,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,40,,Input,Cluster,794234,,10,10382,ZROH,Trisodium citrate dihydrate,5.5,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,40,,Input,Cluster,,,20,23620,ZROH,Process water SPB,350,KG
+5081,3611,No,,2,SF,IFR Base 121 FFI,40,,Output stream,Cluster,,,30,,,,,
+5173,3611,No,,2,SF,GUM Base MP FFI,10,,Primary output,Fluidbed,795174,Total Solids,1,5173,ZHAL,GUM Base MP FFI,2705.825,KG
+5173,3611,No,,2,SF,GUM Base MP FFI,10,20,Input stream,Fluidbed,,,10,,,,,
+5173,3611,No,,2,SF,GUM Base MP FFI,10,,Input,Fluidbed,794281,,20,19531,ZROH,Soy lecithin oil IFT,13.5,KG
+5173,3611,No,,2,SF,GUM Base MP FFI,20,30,Input stream,Fat Injection,,,1,,,,,
+5173,3611,No,,2,SF,GUM Base MP FFI,20,50,Input stream,Fat Injection,,,10,,,,,
+5173,3611,No,,2,SF,GUM Base MP FFI,20,,Output stream,Fat Injection,,,20,,,,,
+5173,3611,No,,2,SF,GUM Base MP FFI,30,,Input,Mix,651409,,1,58511STAND.NONDUTCH,ZROH,SMP standardized FFI 34%,1925,KG
+5173,3611,No,,2,SF,GUM Base MP FFI,30,,Input,Mix,651426,,10,487740,ZROH,Milk protein concentrate 80 %,100,KG
+5173,3611,No,,2,SF,GUM Base MP FFI,30,40,Input stream,Mix,,,20,,,,,
+5173,3611,No,,2,SF,GUM Base MP FFI,30,,Output stream,Mix,,,30,,,,,
+5173,3611,No,,2,SF,GUM Base MP FFI,40,,Input,Cluster,483407,,1,483407,ZROH,Sodium L-ascorbate for wet processing,7.6,KG
+5173,3611,No,,2,SF,GUM Base MP FFI,40,,Input,Cluster,795209,,10,405782,ZROH,Premix Vitamins GUM 503,6.7,KG
+5173,3611,No,,2,SF,GUM Base MP FFI,40,,Input,Cluster,794201,,20,400720,ZROH,Distilled mono- & diglyceride E471,5.3,KG
+5173,3611,No,,2,SF,GUM Base MP FFI,40,,Input,Cluster,794277,,30,93408,ZROH,Choline chloride 1% silica conditioned,2.3,KG
+5173,3611,No,,2,SF,GUM Base MP FFI,40,,Output stream,Cluster,,,40,,,,,
+5173,3611,No,,2,SF,GUM Base MP FFI,50,,Input,Fat tank,794259,,1,10521,ZROH,Beta-carotene 30% oil suspension,0.025,KG
+5173,3611,No,,2,SF,GUM Base MP FFI,50,,Input,Fat tank,272469,,10,272469,ZROH,Fat blend FN00 (bulk),645.4,KG
+5173,3611,No,,2,SF,GUM Base MP FFI,50,,Output stream,Fat tank,,,20,,,,,
+5195,3611,No,,2,SF,High fat GUM Base FFI,10,,Primary output,Fluidbed,747879,Total Solids,20,5195,ZHAL,High fat GUM Base FFI,2707.865,KG
+5195,3611,No,,2,SF,High fat GUM Base FFI,10,20,Input stream,Fluidbed,,,1,,,,,
+5195,3611,No,,2,SF,High fat GUM Base FFI,10,,Input,Fluidbed,794281,,10,19531,ZROH,Soy lecithin oil IFT,19,KG
+5195,3611,No,,2,SF,High fat GUM Base FFI,20,30,Input stream,Fat Injection,,,1,,,,,
+5195,3611,No,,2,SF,High fat GUM Base FFI,20,50,Input stream,Fat Injection,,,10,,,,,
+5195,3611,No,,2,SF,High fat GUM Base FFI,20,,Output stream,Fat Injection,,,20,,,,,
+5195,3611,No,,2,SF,High fat GUM Base FFI,30,,Input,Mix,651450,,1,58511STAND.NONDUTCH,ZROH,SMP standardized FFI 34%,1725,KG
+5195,3611,No,,2,SF,High fat GUM Base FFI,30,40,Input stream,Mix,,,10,,,,,
+5195,3611,No,,2,SF,High fat GUM Base FFI,30,,Output stream,Mix,,,20,,,,,
+5195,3611,No,,2,SF,High fat GUM Base FFI,40,,Input,Cluster,794201,,1,400720,ZROH,Distilled mono- & diglyceride E471,10.85,KG
+5195,3611,No,,2,SF,High fat GUM Base FFI,40,,Input,Cluster,746212,,10,407196,ZROH,Premix vitamins HF GUM base FFI 570,9.74,KG
+5195,3611,No,,2,SF,High fat GUM Base FFI,40,,Input,Cluster,483407,,20,483407,ZROH,Sodium L-ascorbate for wet processing,9.2,KG
+5195,3611,No,,2,SF,High fat GUM Base FFI,40,,Input,Cluster,794277,,30,93408,ZROH,Choline chloride 1% silica conditioned,3.25,KG
+5195,3611,No,,2,SF,High fat GUM Base FFI,40,,Output stream,Cluster,,,40,,,,,
+5195,3611,No,,2,SF,High fat GUM Base FFI,50,,Input,Fattank,794259,,1,10521,ZROH,Beta-carotene 30% oil suspension,0.025,KG
+5195,3611,No,,2,SF,High fat GUM Base FFI,50,,Input,Fattank,272469,,10,272469,ZROH,Fat blend FN00 (bulk),930.8,KG
+5195,3611,No,,2,SF,High fat GUM Base FFI,50,,Output stream,Fattank,,,20,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,10,,Primary output,Silo,,Evap./Abs. with Total Solids,1,55137,ZHAL,IFR Base 110 (T2/T5) BB 850kg,1000,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,10,20,Input stream,Silo,,,10,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,10,,Input,Silo,,,20,326391,ZROH,Lactose bag 25 kg,117.495,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,20,,Output stream,Fat Injection,,,1,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,20,30,Input stream,Fat Injection,,,10,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,20,90,Input stream,Fat Injection,,,20,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,20,,Output stream,Fat Injection,,,30,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,30,40,Input stream,Concentraat,,,1,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,30,50,Input stream,Concentraat,,,10,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,30,60,Input stream,Concentraat,,,20,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,30,70,Input stream,Concentraat,,,30,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,30,80,Input stream,Concentraat,,,40,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,40,,Input,Mix,,,1,24184,ZROH,Skimmed milk (Dutch),1755.894,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,40,,Input,Mix,,,10,4209,ZROH,Demineralized whey concentrate (DOMO),1377.919,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,40,,Output stream,Mix,,,20,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,50,,Input,Cluster 1-10 ,,,1,10344,ZROH,Magnesium chloride hexahydrate,2.36,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,50,,Input,Cluster 1-10 ,,,10,436878,ZROH,Sodium chloride (with 1% calcium carbonate),1.1,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,50,,Input,Cluster 1-10 ,,,20,10443,ZROH,Potassium chloride,0.852,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,50,,Output stream,Cluster 1-10 ,,,30,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,60,,Input,Cluster 2-10,,,1,98373,ZROH,Tri Calcium phosphate [Ca5OH(PO4)3] (food grade),1.165,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,60,,Input,Cluster 2-10,,,10,44752,ZROH,Calcium carbonate,4.29,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,60,,Input,Cluster 2-10,,,20,10368,ZROH,Calcium hydroxide,0.309,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,60,,Output stream,Cluster 2-10,,,30,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,70,,Input,Cluster 3-10,,,1,11587,ZROH,Taurine,0.626,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,70,,Input,Cluster 3-10,,,10,432177,ZROH,Vitaminpremix IF 103,1.162,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,70,,Input,Cluster 3-10,,,20,10382,ZROH,Trisodium citrate dihydrate,1.73,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,70,,Output stream,Cluster 3-10,,,30,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,80,,Input,Cluster 4-10,,,1,10238,ZROH,Tri Potassium Citrate monohydrate,5.7,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,80,,Output stream,Cluster 4-10,,,10,,,,,
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,90,,Input,Vetmengsel,,,1,356756,ZROH,Fat blend FN01 (bulk),307,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,90,,Input,Vetmengsel,,,10,432184,ZROH,Vitaminpremix oil IF 104,0.137,KG
+55137,3611,No,,2,SF,IFR Base 110 (T2/T5) BB 850kg,90,,Output stream,Vetmengsel,,,20,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,10,,Primary output,Silo,,Evap./Abs. with Total Solids,1,55138,ZHAL,IFR Base 121 BB 850kg Ind 850,1000,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,10,20,Input stream,Silo,,,10,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,10,,Input,Silo,,,20,326391,ZROH,Lactose bag 25 kg,117.482,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,20,30,Input stream,Fat Injection,,,1,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,20,90,Input stream,Fat Injection,,,10,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,20,,Output stream,Fat Injection,,,20,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,30,40,Input stream,Concentraat,,,1,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,30,50,Input stream,Concentraat,,,10,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,30,60,Input stream,Concentraat,,,20,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,30,70,Input stream,Concentraat,,,30,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,30,80,Input stream,Concentraat,,,40,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,30,,Output stream,Concentraat,,,50,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,40,,Input,Mix,,,1,24184,ZROH,Skimmed milk (Dutch),1755.894,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,40,,Input,Mix,,,10,4209,ZROH,Demineralized whey concentrate (DOMO),1377.919,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,40,,Output stream,Mix,,,20,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,50,,Input,Cluster 110,,,1,436878,ZROH,Sodium chloride (with 1% calcium carbonate),1.1,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,50,,Input,Cluster 110,,,10,10443,ZROH,Potassium chloride,0.852,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,50,,Input,Cluster 110,,,20,10344,ZROH,Magnesium chloride hexahydrate,2.36,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,50,,Output stream,Cluster 110,,,30,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,60,,Input,Cluster 210,,,1,44752,ZROH,Calcium carbonate,4.29,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,60,,Input,Cluster 210,,,10,10368,ZROH,Calcium hydroxide,0.309,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,60,,Input,Cluster 210,,,20,98373,ZROH,Tri Calcium phosphate [Ca5OH(PO4)3] (food grade),1.165,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,60,,Output stream,Cluster 210,,,30,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,70,,Input,Cluster 310,,,1,10382,ZROH,Trisodium citrate dihydrate,1.73,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,70,,Input,Cluster 310,,,10,432177,ZROH,Vitaminpremix IF 103,1.162,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,70,,Input,Cluster 310,,,20,11587,ZROH,Taurine,0.626,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,70,,Output stream,Cluster 310,,,30,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,80,,Input,Cluster 410,,,1,10238,ZROH,Tri Potassium Citrate monohydrate,5.7,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,80,,Output stream,Cluster 410,,,10,,,,,
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,90,,Input,Vetmengsel,,,1,432184,ZROH,Vitaminpremix oil IF 104,0.137,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,90,,Input,Vetmengsel,,,10,10521,ZROH,Beta-carotene 30% oil suspension,0.013,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,90,,Input,Vetmengsel,,,20,356756,ZROH,Fat blend FN01 (bulk),306.987,KG
+55138,3611,No,,2,SF,IFR Base 121 BB 850kg Ind 850,90,,Output stream,Vetmengsel,,,30,,,,,
+56139,3611,No,,2,SF,GUM Base MP,10,,Primary output,Fluidbed,,Evap./Abs. with Total Solids,1,56139,ZHAL,GUM Base MP,1000,KG
+56139,3611,No,,2,SF,GUM Base MP,10,,Input,Fluidbed,,,10,19531,ZROH,Soy lecithin oil IFT,5,KG
+56139,3611,No,,2,SF,GUM Base MP,10,,Input,Fluidbed,,,20,326278,ZROH,Lactose bb 1000 kg,1.36,KG
+56139,3611,No,,2,SF,GUM Base MP,10,20,Input stream,Fluidbed,,,30,,,,,
+56139,3611,No,,2,SF,GUM Base MP,20,50,Input stream,Fat Injection,,,1,,,,,
+56139,3611,No,,2,SF,GUM Base MP,20,30,Input stream,Fat Injection,,,10,,,,,
+56139,3611,No,,2,SF,GUM Base MP,20,,Output stream,Fat Injection,,,20,,,,,
+56139,3611,No,,2,SF,GUM Base MP,30,40,Input stream,Storage,,,1,,,,,
+56139,3611,No,,2,SF,GUM Base MP,30,60,Input stream,Storage,,,10,,,,,
+56139,3611,No,,2,SF,GUM Base MP,30,,Output stream,Storage,,,20,,,,,
+56139,3611,No,,2,SF,GUM Base MP,40,,Input,Mix,,,1,24184,ZROH,Skimmed milk (Dutch),7616.1,KG
+56139,3611,No,,2,SF,GUM Base MP,40,,Output stream,Mix,,,10,,,,,
+56139,3611,No,,2,SF,GUM Base MP,50,,Input,Vetmengsel,,,1,356756,ZROH,Fat blend FN01 (bulk),245.94,KG
+56139,3611,No,,2,SF,GUM Base MP,50,,Input,Vetmengsel,,,10,10521,ZROH,Beta-carotene 30% oil suspension,0.0193,KG
+56139,3611,No,,2,SF,GUM Base MP,50,,Output stream,Vetmengsel,,,20,,,,,
+56139,3611,No,,2,SF,GUM Base MP,60,,Input,Cluster GUM Base MP tank 5700,,,1,483407,ZROH,Sodium L-ascorbate for wet processing,2.84,KG
+56139,3611,No,,2,SF,GUM Base MP,60,,Input,Cluster GUM Base MP tank 5700,,,10,450638,ZROH,Vitamine premix Jr GUM Base LP,2.48,KG
+56139,3611,No,,2,SF,GUM Base MP,60,,Input,Cluster GUM Base MP tank 5700,,,20,93408,ZROH,Choline chloride 1% silica conditioned,0.85,KG
+56139,3611,No,,2,SF,GUM Base MP,60,,Output stream,Cluster GUM Base MP tank 5700,,,30,,,,,
